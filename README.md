@@ -68,12 +68,6 @@ This section is a work in progress and will be expanded over time with detailed 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Collector779&show_icons=true&theme=dark)
-
----
-
 ## 🤝 Need Help or Want to Collaborate?
 
 If you need **support, feedback, or collaboration** on security-related topics — feel free to reach out.  
